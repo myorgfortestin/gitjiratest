@@ -1,1 +1,1 @@
-# gitjiratest small edit
+# gitjiratest small changes
